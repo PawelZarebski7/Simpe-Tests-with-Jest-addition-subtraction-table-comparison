@@ -1,0 +1,14 @@
+{
+  "name": "jest-test",
+  "version": "1.0.1",
+  "description": "Jest simple project",
+  "main": "cloneArray.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "Paweł Zarębski",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
